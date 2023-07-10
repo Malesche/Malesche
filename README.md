@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Maria.
 
+I studied theoretical computer science and am now getting into databases.
 <!--
 **Malesche/Malesche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
