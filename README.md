@@ -22,7 +22,7 @@ also:
 - cloud stuff
 - more Docker, Git
 
-What I want to learn and understand better longer term (at the moment I can't grasp that much of it yet):
+What I want to learn and understand better longer term (at the moment I can't properly grasp that much of it yet):
 - Database Internals - Book by Alex Petrov
 - Designing Data-Intensive Applications - Book by Martin Kleppmann
 - [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) - Course by Hussein Nasser
