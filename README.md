@@ -33,6 +33,7 @@ https://www.youtube.com/@hnasr
 
 
 ⚡ Fun:
+
 I'm a bit obsessed with books and library catalogues. From classics, modernist literature, Science Fiction, popular science, psychology, sociology, memoir, selfhelp to literery fiction and contemporary poetry.
 
 Some of my favorite Authors are Anne Carson, Maggie Nelson, Tommy Pico, Monika Helfer, Sheila Heti, Alejandro Zambra, Simone de Beauvoir, George Eliot, Clarice Lispector, Gertrude Stein, Virginia Woolf, Ted Chiang, Carlo Rovelli, Peter Levine.
