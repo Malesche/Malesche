@@ -29,8 +29,23 @@ What I want to learn and understand better longer term (at the moment I can't pr
 
 For anyone interested in in depth looks at Backend and in particular Database issues, I highly recommend checking out Hussein Nasser's content:
 https://www.youtube.com/@hnasr
+
+
+
+⚡ Fun:
+I'm a bit obsessed with books and library catalogues. From classics, modernist literature, Science Fiction, popular science, psychology, sociology, memoir, selfhelp to literery fiction and contemporary poetry.
+
+Some of my favorite Authors are Anne Carson, Maggie Nelson, Tommy Pico, Monika Helfer, Sheila Heti, Alejandro Zambra, Simone de Beauvoir, George Eliot, Clarice Lispector, Gertrude Stein, Virginia Woolf, Ted Chiang, Carlo Rovelli, Peter Levine.
+
+
+
 <!--
 **Malesche/Malesche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Von Klassikern und Modernismus über Science Fiction, Psychologie, Soziologie, Geschichte, Memoir, Selbsthilfe bis zu zeitgenösischer Literatur und Lyrik kann mich sehr viel Verschiedenes begeistern.
+
+Einige meiner Lieblingsautoren sind Anne Carson, Maggie Nelson, Tommy Pico, Monika Helfer, Sheila Heti, Alejandro Zambra, Simone de Beauvoir, George Eliot, Clarice Lispector, Gertrude Stein, Virginia Woolf, Ted Chiang, Carlo Rovelli, Peter Levine.
 
 Here are some ideas to get you started:
 
