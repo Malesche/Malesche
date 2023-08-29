@@ -2,7 +2,7 @@
 
 I studied theoretical computer science and am now getting into databases and backend stuff.
 
-There is a lot I want to learn!
+<!--There is a lot I want to learn!
 
 most immediately
 - learn and practice ASP.NET Core Web API
@@ -26,9 +26,6 @@ What I want to learn and understand better longer term (at the moment I can't pr
 - Database Internals - Book by Alex Petrov
 - Designing Data-Intensive Applications - Book by Martin Kleppmann
 - [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) - Course by Hussein Nasser
-
-For anyone interested in in depth looks at Backend and in particular Database issues, I highly recommend checking out Hussein Nasser's content:
-https://www.youtube.com/@hnasr
 
 
 
