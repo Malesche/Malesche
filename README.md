@@ -1,7 +1,6 @@
 ### Hi, I'm Maria.
 
-I studied theoretical computer science and am now getting into databases and backend stuff.
-
+I studied theoretical computer science and am now getting into databases and .NET backend stuff.
 <!--There is a lot I want to learn!
 
 most immediately
