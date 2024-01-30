@@ -1,6 +1,13 @@
 ### Hi, I'm Maria.
 
-I studied theoretical computer science and am now working in .NET backend developement.
+I am a computer scientist and an artist.
+In my artistic practice as well as in my work in formal logic and programming, I love moving through our human systems of action and interaction, following the necessities of problems to be tackled and the logic of the languages we use to build things. We build complex, many-layered systems and within them pursue functionality and consistency.
+
+After studying painting for three years, I studied and graduated in computer science. I specialized in logic and in particular in descriptive complexity theory, which analyses the surprising connections between complexity classes and formal logics. Although I am very fond of abstract theory, I decided against the academic world and after a break of several years, I have now returned to the practical side of computer science.
+
+Lately, I focused on C#, .NET and database technologies. One of my favorite aspects of software development is the chance to work together in a team! I also particularly enjoy working with the structured approaches to the organization of collaboration, projects and code, such as agile methods and clean code practices.
+
+Apart from computer science and textile art I love books, libraries and spending time outdoors!
 
 <!--There is a lot I want to learn!
 
